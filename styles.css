@@ -1,0 +1,66 @@
+body { 
+    font-family: Arial, sans-serif; 
+    font-size: 20px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #090909;
+}
+
+.navbar {
+    font-weight: bold;
+    background-color: #282828;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;    
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar li {
+    display: inline-block;
+}
+
+.navbar a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.header {
+    color: red;
+}
+
+.expect {
+    color: orange;
+}
+
+.name-header {
+    color: yellow;
+}
+
+.intro {
+    color: green;
+}
+
+.hobby-header {
+    color: blue
+}
+
+.hobby {
+    color: indigo
+}
+
+.form-container {
+    border-radius: 10px;
+    background-color: #282828;
+    padding: 15px;
+    display: inline-block;
+}
+
+.form-container form textarea {
+    resize: vertical;
+}
